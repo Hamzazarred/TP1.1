@@ -1,14 +1,20 @@
 # TP1.1
 Répondre à ces questions :
 
+
+
 Question 1
+
 Quel est le nom du fichier de mise en page de l'activité principale ?
+
 •	activity_main.xml
 
 
 Question 2
+
 Quel est le nom de la ressource chaîne qui spécifie le nom de l’application ?
 •	app_name
+
 
 
 Question 3
